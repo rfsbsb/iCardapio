@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.teste.primeiro" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>iCardapio</name>
+    <description>
+        Um projeto para teste do Cordova
+    </description>
+    <author email="rafael@webphp.com.br" href="http://rafaelsilva.net">
+        Rafael Silva
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
