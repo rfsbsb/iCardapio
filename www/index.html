@@ -23,30 +23,45 @@
                 <a href="#popupFecharPedido" data-rel="popup" data-theme="b" data-transition="slidedown" class="ui-btn-right" data-position-to="window">Finalizar</a>
             </div>
             <ul class="lista" data-role="listview" data-split-icon="gear" data-split-theme="d" data-inset="true">
-                <li data-icon="plus"><a class="item" id="calabresa" href="#">
+                <li>
                     <img class="foto" src="img/pizzas/calabresa.jpg">
-                    <h2>Pizza de calabresa</h2>
-                    <p>R$ 12,90</p></a>
+                    <div class="content">
+                        <h2>Pizza de calabresa</h2>
+                        <p>R$ 12,90</p>
+                    </div>
+                    <input type="number" min="0" pattern="[0-9]*" size="2" maxlenght="2" id="calabresa" class="item" name="calabresa" />
                 </li>
-                <li data-icon="plus"><a class="item" id="portuguesa" href="#">
+                <li>
                     <img class="foto" src="img/pizzas/portuguesa.jpg">
-                    <h2>Pizza portuguesa</h2>
-                    <p>R$ 15,50</p></a>
+                    <div class="content">
+                        <h2>Pizza portuguesa</h2>
+                        <p>R$ 15,50</p>
+                    </div>
+                    <input type="number" min="0" pattern="[0-9]*" size="2" maxlenght="2" id="portuguesa" class="item" name="portuguesa" />
                 </li>
-                <li data-icon="plus"><a class="item" id="ruculatomateseco" href="#">
+                <li>
                     <img class="foto" src="img/pizzas/rucula-tomate-seco.jpg">
-                    <h2>Pizza de rúcula com tomate seco</h2>
-                    <p>R$ 32,75</p></a>
+                    <div class="content">
+                        <h2>Pizza de rúcula com tomate seco</h2>
+                        <p>R$ 32,75</p>
+                    </div>
+                    <input type="number" min="0" pattern="[0-9]*" size="2" maxlenght="2" id="ruculatomateseco" class="item" name="ruculatomateseco" />
                 </li>
-                <li data-icon="plus"><a class="item" id="vegetariana" href="#">
+                <li>
                     <img class="foto" src="img/pizzas/vegetariana.jpg">
-                    <h2>Pizza vegetariana</h2>
-                    <p>R$ 11,50</p></a>
+                    <div class="content">
+                        <h2>Pizza vegetariana</h2>
+                        <p>R$ 11,50</p>
+                    </div>
+                    <input type="number" min="0" pattern="[0-9]*" size="2" maxlenght="2" id="vegetariana" class="item" name="vegetariana" />
                 </li>
-                <li data-icon="plus"><a class="item" id="marguerita" href="#">
+                <li>
                     <img class="foto" src="img/pizzas/marguerita.jpg">
-                    <h2>Pizza marguerita</h2>
-                    <p>R$ 27,51</p></a>
+                    <div class="content">
+                        <h2>Pizza marguerita</h2>
+                        <p>R$ 27,51</p>
+                    </div>
+                    <input type="number" min="0" pattern="[0-9]*" size="2" maxlenght="2" id="marguerita" class="item" name="marguerita" />
                 </li>
             </ul>
             <div data-role="popup" id="popupFecharPedido" data-theme="a" class="ui-corner-all">

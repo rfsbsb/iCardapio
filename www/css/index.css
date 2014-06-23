@@ -4,4 +4,15 @@
 
 .lista {
   padding-top: 43px;
+  padding-bottom: 43px;
+}
+
+.lista .ui-input-text {
+  max-width: 50px;
+    float: right;
+}
+
+.content {
+  float: left;
+  width: 80%;
 }

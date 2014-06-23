@@ -521,3 +521,207 @@ You could find it at the following address https://developer.apple.com/icloud/do
         )
 
 )
+2014-06-23 14:21:18.117 iCardapio[2145:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 14:21:18.206 iCardapio[2145:70b] Unlimited access to network resources
+2014-06-23 14:21:18.217 iCardapio[2145:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 14:21:19.473 iCardapio[2145:70b] Resetting plugins due to page load.
+2014-06-23 14:21:20.642 iCardapio[2145:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 14:22:00.423 iCardapio[2145:70b] Array
+(
+    [mesa] => 3
+    [carrinho] => Array
+        (
+            [portuguesa] => Array
+                (
+                    [nome] => Pizza portuguesa
+                    [preco] => 15.5
+                )
+
+        )
+
+)
+2014-06-23 14:26:22.695 iCardapio[2493:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 14:26:22.703 iCardapio[2493:70b] Unlimited access to network resources
+2014-06-23 14:26:22.707 iCardapio[2493:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 14:26:22.785 iCardapio[2493:70b] Resetting plugins due to page load.
+2014-06-23 14:26:23.050 iCardapio[2493:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 14:32:00.374 iCardapio[2807:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 14:32:00.382 iCardapio[2807:70b] Unlimited access to network resources
+2014-06-23 14:32:00.391 iCardapio[2807:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 14:32:00.922 iCardapio[2807:70b] Resetting plugins due to page load.
+2014-06-23 14:32:01.286 iCardapio[2807:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 14:36:06.665 iCardapio[3111:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 14:36:06.679 iCardapio[3111:70b] Unlimited access to network resources
+2014-06-23 14:36:06.692 iCardapio[3111:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 14:36:06.997 iCardapio[3111:70b] Resetting plugins due to page load.
+2014-06-23 14:36:07.308 iCardapio[3111:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 14:58:16.189 iCardapio[3471:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 14:58:16.202 iCardapio[3471:70b] Unlimited access to network resources
+2014-06-23 14:58:16.215 iCardapio[3471:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 14:58:16.698 iCardapio[3471:70b] Resetting plugins due to page load.
+2014-06-23 14:58:17.042 iCardapio[3471:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 15:23:01.608 iCardapio[3816:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 15:23:01.630 iCardapio[3816:70b] Unlimited access to network resources
+2014-06-23 15:23:01.641 iCardapio[3816:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 15:23:02.638 iCardapio[3816:70b] Resetting plugins due to page load.
+2014-06-23 15:23:03.183 iCardapio[3816:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 15:24:44.467 iCardapio[4122:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 15:24:44.474 iCardapio[4122:70b] Unlimited access to network resources
+2014-06-23 15:24:44.495 iCardapio[4122:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 15:24:45.078 iCardapio[4122:70b] Resetting plugins due to page load.
+2014-06-23 15:24:45.451 iCardapio[4122:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 15:25:03.548 iCardapio[4122:70b] Array
+(
+    [mesa] => 2
+)
+2014-06-23 15:51:45.894 iCardapio[4464:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 15:51:45.902 iCardapio[4464:70b] Unlimited access to network resources
+2014-06-23 15:51:45.909 iCardapio[4464:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 15:51:46.728 iCardapio[4464:70b] Resetting plugins due to page load.
+2014-06-23 15:51:47.153 iCardapio[4464:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 15:53:16.877 iCardapio[4464:70b] Array
+(
+    [mesa] => 1
+    [carrinho] => Array
+        (
+            [calabresa] => Array
+                (
+                    [nome] => Pizza de calabresa
+                    [preco] => 12.9
+                    [total] => 12.9
+                )
+
+            [portuguesa] => Array
+                (
+                    [nome] => Pizza portuguesa
+                    [preco] => 15.5
+                    [total] => 15.5
+                )
+
+            [ruculatomateseco] => Array
+                (
+                    [nome] => Pizza de rúcula com tomate seco
+                    [preco] => 32.7
+                    [total] => 32.7
+                )
+
+            [vegetariana] => Array
+                (
+                    [nome] => Pizza vegetariana
+                    [preco] => 11.5
+                    [total] => 11.5
+                )
+
+            [marguerita] => Array
+                (
+                    [nome] => Pizza marguerita
+                    [preco] => 27.5
+                    [total] => 27.5
+                )
+
+        )
+
+)
+2014-06-23 15:55:00.441 iCardapio[4775:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-23 15:55:00.463 iCardapio[4775:70b] Unlimited access to network resources
+2014-06-23 15:55:00.467 iCardapio[4775:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-23 15:55:00.531 iCardapio[4775:70b] Resetting plugins due to page load.
+2014-06-23 15:55:00.802 iCardapio[4775:70b] Finished load of: file:///Users/rfsbsb/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/258C0A52-D22C-4517-AB70-BEDBC02F02CF/iCardapio.app/www/index.html
+2014-06-23 15:55:40.186 iCardapio[4775:70b] Array
+(
+    [mesa] => 1
+    [total] => 325.5
+    [carrinho] => Array
+        (
+            [calabresa] => Array
+                (
+                    [nome] => Pizza de calabresa
+                    [preco] => 12.9
+                    [total] => 12.9
+                )
+
+            [portuguesa] => Array
+                (
+                    [nome] => Pizza portuguesa
+                    [preco] => 15.5
+                    [total] => 31
+                )
+
+            [ruculatomateseco] => Array
+                (
+                    [nome] => Pizza de rúcula com tomate seco
+                    [preco] => 32.7
+                    [total] => 98.10000000000001
+                )
+
+            [vegetariana] => Array
+                (
+                    [nome] => Pizza vegetariana
+                    [preco] => 11.5
+                    [total] => 46
+                )
+
+            [marguerita] => Array
+                (
+                    [nome] => Pizza marguerita
+                    [preco] => 27.5
+                    [total] => 137.5
+                )
+
+        )
+
+)
