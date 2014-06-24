@@ -87,6 +87,8 @@ var app = {
       $.map(carrinho, function(product, i) {
         total += product.total;
       });
+      	console.log("tá indo");
+      		console.log(carrinho);
       $.post("http://10.200.111.131/post.php", {mesa: mesa, total: total, carrinho: carrinho}, function(data){
         $("#mesa").val("");
         $(".item").val("");
