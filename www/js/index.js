@@ -87,7 +87,7 @@ var app = {
       $.map(carrinho, function(product, i) {
         total += product.total;
       });
-      $.post("http://10.200.111.131/post.php", {mesa: mesa, total: total, carrinho: carrinho}, function(data){
+      $.post("http://rafaelsilva.net/post.php", {mesa: mesa, total: total, carrinho: carrinho}, function(data){
         $("#mesa").val("");
         $(".item").val("");
         $(".total-items").html("0")
