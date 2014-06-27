@@ -12,4 +12,4 @@ Acesse, via terminal, a pasta do projeto, e rode:
     cordova build <plataforma>
     cordova emulate <plataforma>
     
-Sendo que <plataforma> pode ser android ou ios, que foram nas quais o projeto foi testado. Outras podem ser usadas, mas sem garantias.
+Sendo que &lt;plataforma&gt; pode ser android ou ios, que foram nas quais o projeto foi testado. Outras podem ser usadas, mas sem garantias.
